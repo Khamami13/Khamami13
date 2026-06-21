@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Rizqi Khamami</h1>
 
 <h3 align="center">
